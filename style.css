@@ -100,6 +100,11 @@ h4{
 #bg-yellow{
     background-color: #FFF4D6;
 }
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 30px;
+}
 .humanitarian-relief{
     display: inline-flex;
     width: 60%;
